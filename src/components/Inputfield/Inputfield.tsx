@@ -1,4 +1,5 @@
 import React from 'react';
+import './Inputfield.css';
 
 export interface InputFieldProps {
   type: string;
